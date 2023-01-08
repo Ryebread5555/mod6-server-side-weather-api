@@ -11,4 +11,16 @@ var currentTempEl = document.getElementById("temperature");
 var currentWindEl = document.getElementById("wind");
 var currentHumidityEl = document.getElementById("humidity");
 
+function getWeather(cityName) {
+    // attemping to fetch the current weather from openWeather API
+    let queryURL = "https://api.openweathermap.org/data/2.5/forecast?lat=" + cityName + "&appid=" + APIKey;
+    fetch.get(queryURL)
+    .then(function (response) {
+
+        todayweatherEL.classlist.remove("d-none");
+
+        
+    })
+}
+
 }
