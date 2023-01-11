@@ -22,14 +22,13 @@ SO THAT I can plan a trip accordingly
 ```
 
 ## Function
-- I want to create a 5 day weather forecast that allows you to search for your city and state.
-- This will display the weather forecast.
-- Local Storage will save the recent cities/states I searched.
-- the city name, dates, and weather icons will display to give the user a visual of the weather.
+- Weather dashboard has a search input that allows you to search for a city and displays the current weather as well as the 5 day fore-cast.
+- Cities that have been searched are saved in the local storage and are displayed for the user to check each city they search for.
+- Weather cards show images of how the weather is as well as tells you the degrees in fahrenheit.
+- Temperture, wind speed, and humidity is also displayed.
 
 ## Languages
 - HTML
-- CSS
 - Bootstrap
 - Openweather API
 
