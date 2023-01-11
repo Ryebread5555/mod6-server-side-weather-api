@@ -5,8 +5,8 @@ SO THAT I can plan a trip accordingly
 
 ## Module 6 Challenge Jan 11, 2023
 
-* Deployed: 
-* GitHub: 
+* Deployed: https://ryebread5555.github.io/mod6-server-side-weather-api/
+* GitHub: https://github.com/Ryebread5555/mod6-server-side-weather-api
 
 ## Acceptance Criteria
 ```
