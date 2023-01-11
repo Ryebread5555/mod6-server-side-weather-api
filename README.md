@@ -33,3 +33,4 @@ SO THAT I can plan a trip accordingly
 - Openweather API
 
 ## Mock-up
+![](./assets/images/weather-dashboard-mockup.gif)
